@@ -1,8 +1,8 @@
 # Coin-Game
-An interactive game to play against the computer from one of my first programming classes. 
+An interactive game against the computer from one of my first programming classes. 
 
 -----------------------
-### Rules
+## Rules
 
 I'm not sure what the game is called, but it is an interesting programming challenge. The game in real life consists of 23 coins on a table and two players, and the winner is whoever does not pick up the last coin. During a move, a player can either pick up one or two coins. The number of coins used can be changed to however many you want, and the rules and strategy apply the same. Using the correct strategy can ensure victory. 
 
@@ -10,7 +10,7 @@ There are many iterations of this game in which a player can take 1, 2, 3, or ev
 
 -----------------------
 
-### Strategy
+## Strategy
 
 Before considering 23 coins, think about the base case. To win, you need to leave only 1 coin left to be picked up by your opponent. Because you can either pick up 1 or 2 coins per turn, the number of coins immediety before your victory is either 2 or 3. Therefore, you want to try to guarentee that at the end of the game, you will be left with 2 or 3 coins in order to corner the opponent into losing. 
 
@@ -40,10 +40,4 @@ In a 23-coin game, you want to move first to take 1 coin, leaving your opponent 
 
 If you do not move first, you should try to get your opponent to slip up, and take back the advantage. If they know the strategy, then you have no possibility of winning. If they don't, then try to reproduce the winning conditions in your favor, but there is no guarentee that you will win. 
 
-
-
-
-
-
-
-
+------------------
