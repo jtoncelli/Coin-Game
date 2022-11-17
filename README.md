@@ -38,6 +38,6 @@ You now understand how to win with 2, 3, 4 and 7 coins, and these principles can
 
 In a 23-coin game, you want to move first to take 1 coin, leaving your opponent with 22 coins, which is 18 + 4, or (3 * 6) + 4. For every move following this one, you simply do the opposite as your opponent, and you will win!
 
-If you do not move first, you should try to get your opponent to slip up, and take back the advantage. If they know the strategy, then you have no possibility of winning. If they don't, then try to reproduce the winning conditions in your favor, but there is no guarentee that you will win. 
+If you do not move first, you should try to get your opponent to slip up, and take back the advantage. To do this, take 2 coins every move, and if they take 2 coins as well, switch immediately to the strategy above. If they know the strategy, then you have no possibility of winning. If they don't, then try to reproduce the winning conditions in your favor, but there is no guarentee that you will win. 
 
 ------------------
